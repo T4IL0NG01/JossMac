@@ -1,2 +1,4 @@
 # JossMac
 Script 
+
+git clone
